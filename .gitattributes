@@ -1,3 +1,5 @@
 *.java linguist-detectable=true
 *.in linguist-detectable=false
 *.out linguist-detectable=false
+
+//for changing GitHub repository language
