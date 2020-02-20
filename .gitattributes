@@ -1,4 +1,4 @@
-*.java linguist-detectable=true
+*.c linguist-detectable=true
 *.in linguist-detectable=false
 *.out linguist-detectable=false
 
